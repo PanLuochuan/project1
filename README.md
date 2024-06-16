@@ -1,6 +1,9 @@
 # project1-PanLuochuan
-**Introduce** : This project uses diabetes data,It is mainly to demonstrate the management and prediction of this data, and is divided into the following parts: data cleaning, exploratory data analysis (generating statistical data and data visualization), establishing predictive models, and evaluating model performance.  
+## Introduce 
+This project uses diabetes data and creates two notebooks, one for building models separately and one for using an integrated model. It mainly demonstrates the management and prediction of the data and the evaluation of the model, which is divided into the following parts: data cleaning, exploratory data analysis (generating statistics and data visualization), building a predictive model, and evaluating model performance. 
+
 **Predictive models** : logistic regression, random forest and SVC.  
+
 **Introduction to the data sets used** :  
 Pregnancies : the number of pregnancies.  
 Glucose : Plasma glucose concentration at 2 hours in an oral glucose tolerance test.  
